@@ -1,2 +1,5 @@
 # therapynote-ai
-Streamline therapy note-taking with AI-powered tools
+
+This repository was created by [Inceptzon](https://inceptzon.com).
+
+See `ARCHITECTURE.md` for the full technical architecture document.
